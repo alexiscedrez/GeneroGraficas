@@ -1,0 +1,6 @@
+Poné acá tus archivos de Gotham (con licencia) para que la app los use en todos los dispositivos:
+  Gotham-Book.woff2 / .otf     (peso 400, texto)
+  Gotham-Medium.woff2 / .otf   (peso 500)
+  Gotham-Bold.woff2 / .otf     (peso 700)
+  Gotham-Black.woff2 / .otf    (peso 900, títulos)
+Mientras no estén, la app usa Montserrat.
