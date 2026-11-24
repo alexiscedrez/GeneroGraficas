@@ -1,1 +1,1 @@
-# GeneroGraficas
+# GeneroGráficas
